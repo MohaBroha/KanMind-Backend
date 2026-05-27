@@ -1,8 +1,9 @@
 KanMind 🧠
 
-KanMind is a fullstack Kanban-style productivity application built with Django REST Framework (backend) and a modern frontend.
+### KanMind is a REST API backend built with Django REST Framework for a Kanban-style task management application.
 
-Features
+
+# Features
 
 - User Registration API
 - User Login with Token Authentication
@@ -22,11 +23,7 @@ Backend
 - Django 6
 - Django REST Framework
 - Token Authentication (DRF)
-
-Frontend
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
+  
 
 Authentication Flow
 
@@ -112,12 +109,6 @@ KanMind-Project/
 │   │   ├── er-target.png
 │   │   ├── er-current.png
 │   ├── manage.py
-│
-├── frontend/
-│   ├── pages/
-│   ├── shared/
-│   ├── assets/
-│
 ├── .gitignore
 ├── README.md
 ```
